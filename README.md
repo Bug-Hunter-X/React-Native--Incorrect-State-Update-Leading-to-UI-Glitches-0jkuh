@@ -1,0 +1,1 @@
+This repository demonstrates a common mistake in React Native state management. The `bug.js` file shows incorrect state updates, leading to UI inconsistencies.  The solution, in `bugSolution.js`, showcases the correct approach using the functional setState method to ensure proper updates and avoid unexpected behavior.
